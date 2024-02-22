@@ -13,3 +13,5 @@ More text
 Last text
 
 copyright Git.Training
+
+New Comment
