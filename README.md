@@ -11,3 +11,5 @@ More text
 #### Deployment
 
 Last text
+
+copyright Git.Training
