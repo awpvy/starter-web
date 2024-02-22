@@ -3,7 +3,11 @@
 
 # TEAM
 
+<<<<<<< HEAD
 Hans test@test.de
+=======
+    Hans Muff test@test.de 2
+>>>>>>> simple-changes
 
 # THANKS
 
