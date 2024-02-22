@@ -1,3 +1,13 @@
-# Starter Web Repo
-## Purpose
-### Deployment
+# Starter Web Project
+
+Some text
+
+## Introduction
+Some more text
+
+### Purpose
+More text
+
+#### Deployment
+
+Last text
